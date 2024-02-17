@@ -1,7 +1,14 @@
 public class Base {
-    String sun;
-    String moom;
-    String planet;
-    String stars;
 
-}
+    String Sun;
+    String Moon;
+    String Planets;
+    String Stars;
+
+
+        String color;
+        String temp;
+        String size;
+    }
+
+
